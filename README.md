@@ -2,11 +2,11 @@
 www.teodor.bg Registration form
 #[Qase] Teodor registration form test case scenario
 
-[A set of test cases on registration form:](https://teodor.bg/) using Qase
+A set of test cases on registration form:[Teodor](https://teodor.bg/) using Qase
 
 **Test cases**
 
-[TEODOR-2023-04-21.pdf]({{file name='TEODOR-2023-04-21.pdf'}})
+[TEODOR-2023-04-21.pdf](TEODOR-2023-04-21.pdf)
 
 
 **Test run**
@@ -16,6 +16,20 @@ www.teodor.bg Registration form
 
 Conclusion
 These test cases provide a comprehensive coverage of the registration form on https://teodor.bg/. By executing these tests using Qase, you can ensure that the registration form is functioning as intended and providing appropriate feedback to users.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
