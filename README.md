@@ -1,6 +1,8 @@
 # Registration Form Test Scenario
-www.teodor.bg Registration form
-#[Qase] Registration form test case scenario
+www.teodor.bg 
+
+#[Qase](https://qase.io/) Registration form test case scenario
+
 
 A set of test cases on registration form:[Teodor](https://teodor.bg/) using Qase
 
