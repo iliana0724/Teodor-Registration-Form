@@ -1,4 +1,4 @@
-# Iliana
+# Registration Form Test Scenario
 www.teodor.bg Registration form
 #[Qase] Registration form test case scenario
 
